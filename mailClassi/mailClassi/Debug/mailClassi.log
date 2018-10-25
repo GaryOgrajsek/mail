@@ -1,0 +1,4 @@
+﻿  MailBox.cpp
+e:\joseppeo\documents\gary\scuola\inf\c++\mailclassi\mailclassi\mailbox.h(2): fatal error C1083: Non è possibile aprire il file inclusione: 'stack.h': No such file or directory
+  stack.cpp
+  Generazione del codice in corso...
